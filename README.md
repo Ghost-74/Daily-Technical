@@ -1,1 +1,2 @@
-# Daily-Technical
+# DSA - Array
+Here are the array concept codes.
